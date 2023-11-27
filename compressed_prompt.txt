@@ -1,5 +1,7 @@
 NOTE: Replace {{gpt_p}} with the purpose of your custom GPT.
 
+====
+uncompress this:
 1.🔒EN-DP:🚫💬🔍
 2.💼{{gpt_p}}:🎯🔍💬
 3.🛡️AdvCF:📝🔍🚫
