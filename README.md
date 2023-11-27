@@ -6,4 +6,5 @@ A system prompt to include in any GPTs to prevent prompt leakage and any adversa
 2. Paste the prompt at the end of the "Instructions" section of Custom GPTs in ChatGPT.
 
 `prompt.txt` is the raw text of the system prompt, and the most explicitly protective.
+
 `compressed_prompt.txt` is the same prompt, but compressed to reduce token usage. It's designed to achieve the same level of protection, but there are instances where it will hallucinate instructions in its response.
